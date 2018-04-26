@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088172614958",
+    "firebase_url": "https://chatfirelss.firebaseio.com",
+    "project_id": "chatfirelss",
+    "storage_bucket": "chatfirelss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088172614958:android:cbd592dce0534963",
+        "android_client_info": {
+          "package_name": "com.leonardo_soares_santos.chatbotlssfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088172614958-o60t1i36ee3ni8l0iu59jj3v3uej2isj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonardo_soares_santos.chatbotlssfire",
+            "certificate_hash": "c0f26a29d2c254615d65caefa3faf3149b79865d"
+          }
+        },
+        {
+          "client_id": "1088172614958-fuko3ta7tu78rflbcmbkb3d4qnbok0u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoEvnDrHKiq15dCzF4OhSa-Ehzb2lD8fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088172614958-fuko3ta7tu78rflbcmbkb3d4qnbok0u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
